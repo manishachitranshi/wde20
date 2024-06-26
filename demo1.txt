@@ -1,2 +1,3 @@
 My name is Manisha. this is my 1st code 
-my 2nd line
+my 2nd line of code
+and so on
